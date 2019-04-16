@@ -56,5 +56,6 @@ namespace FormUI
             artists.Add(new Artist { Name = textBoxNameto.Text });
             UpdateBinding();
         }
+        
     }
 }
